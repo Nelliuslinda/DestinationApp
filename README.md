@@ -2,7 +2,7 @@
 <h2>Description</h2>
 Android application that allows users to choose different destinations to travel. Users can add or delete destinations from their cart. 
 Users are also to view the total price of all the setinations added on the cart.
-Implemented using Java and Firebase (Realtime database).
+Implemented using Java, Kotlin and Firebase (Realtime database).
 
 
 <h2> Screenshots </h2>
